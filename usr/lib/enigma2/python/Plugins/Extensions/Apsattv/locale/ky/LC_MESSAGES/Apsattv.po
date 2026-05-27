@@ -47,7 +47,7 @@ msgid "Please install SubSupport Plugins"
 msgstr "Сураныч, SubSupport Plugins орнотуңуз"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Букетти алып салуу"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
 msgstr "Бардык APSATTV Favorite Bouquet өчүрүлсүнбү?"

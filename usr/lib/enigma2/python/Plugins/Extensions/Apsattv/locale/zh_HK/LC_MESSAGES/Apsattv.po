@@ -59,4 +59,4 @@ msgid "Update"
 msgstr "更新"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "更新中止！"
