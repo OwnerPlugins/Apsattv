@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Lîsteya Vebijarkên APSATTV hate rakirin"
 
 msgid "Back"
-msgstr ""
+msgstr "Paş"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Pîroz be! Berê te guhertoya herî dawî heye..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Tu dixwazî ​​nûvekirina ( %s ) niha saz bikî?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Çewtiya Daxistinê"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Di guhertoya kontrolê de çewtî: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Vê kategoriyê fîlter bike..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Ji kerema xwe Pêvekên SubSupport saz bikin"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Bouquet rakin"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Hemî Bûka Xwezî ya APSATTV rakin?"
 
 msgid "Search"
-msgstr ""
+msgstr "Gerr"
 
 msgid "Update"
-msgstr ""
+msgstr "Rojanekirin"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Nûvekirin hate betal kirin!"

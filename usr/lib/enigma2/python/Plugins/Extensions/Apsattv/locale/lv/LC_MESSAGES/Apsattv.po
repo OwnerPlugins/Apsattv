@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV izlases saraksts ir noņemts"
 
 msgid "Back"
-msgstr ""
+msgstr "Atpakaļ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Vai vēlaties instalēt atjauninājumu ( %s ) tūlīt?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Lejupielādes kļūda"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Pārbaudot versiju, radās kļūda: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksportēt"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrēt šo kategoriju..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Lūdzu, instalējiet SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Noņemiet pušķi"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Vai noņemt visu APSATTV iecienītāko pušķi?"
 
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 msgid "Update"
-msgstr ""
+msgstr "Atjaunināt"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atjaunināšana pārtraukta!"

@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Baineadh Liosta Ceanáin APSATV"
 
 msgid "Back"
-msgstr ""
+msgstr "Ar ais"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Comhghairdeachas! Tá an leagan is déanaí agat cheana féin..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ar mhaith leat nuashonrú ( % s ) a shuiteáil anois?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Earráid íoslódáil"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Earráid agus leagan á sheiceáil: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "Export"
-msgstr ""
+msgstr "Easpórtáil"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Scag an chatagóir seo..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Suiteáil Forlíontáin Fo-thacaíocht"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Bain Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Bain gach Bouquet Is Ansa le APSATV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Cuardach"
 
 msgid "Update"
-msgstr ""
+msgstr "Nuashonrú"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Tobscoireadh an Nuashonrú!"

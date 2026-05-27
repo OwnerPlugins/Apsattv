@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV Favorites List binne fuortsmiten"
 
 msgid "Back"
-msgstr ""
+msgstr "Rêch"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Lokwinske! Jo hawwe de lêste ferzje al ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Wolle jo de fernijing ( %s ) no ynstallearje?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Download flater"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Flater by it kontrolearjen fan ferzje: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Útgong"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksportearje"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filter dizze kategory..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Ynstallearje asjebleaft SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Fuortsmite Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Alle APSATTV Favorite Bouquet fuortsmite?"
 
 msgid "Search"
-msgstr ""
+msgstr "Sykje"
 
 msgid "Update"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Update ôfbrutsen!"

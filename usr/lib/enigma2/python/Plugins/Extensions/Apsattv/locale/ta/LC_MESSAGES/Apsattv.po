@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV பிடித்தவை பட்டியல் அகற்றப்பட்டது"
 
 msgid "Back"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "வாழ்த்துகள்! உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "புதுப்பிப்பை (%s) இப்போது நிறுவ விரும்புகிறீர்களா?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "பதிவிறக்கப் பிழை"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "பதிப்பைச் சரிபார்ப்பதில் பிழை: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Export"
-msgstr ""
+msgstr "ஏற்றுமதி"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "இந்த வகையை வடிகட்டவும்..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "துணை ஆதரவு செருகுநிரல்களை நிறுவவும்"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "பூச்செண்டை அகற்று"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "APSATTV பிடித்த பூச்செண்டு அனைத்தையும் அகற்றவா?"
 
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 msgid "Update"
-msgstr ""
+msgstr "புதுப்பிக்கவும்"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"

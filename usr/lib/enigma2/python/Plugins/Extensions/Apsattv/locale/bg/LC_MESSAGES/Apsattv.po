@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Списъкът с любими APSATTV е премахнат"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "честито Вече имате най-новата версия..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Искате ли да инсталирате актуализация ( %s ) сега?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Грешка при изтегляне"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Грешка при проверка на версията: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изход"
 
 msgid "Export"
-msgstr ""
+msgstr "Експортиране"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Филтриране на тази категория..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Моля, инсталирайте SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Премахване на букет"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Премахване на всички APSATTV любими букети?"
 
 msgid "Search"
-msgstr ""
+msgstr "Търсене"
 
 msgid "Update"
-msgstr ""
+msgstr "Актуализация"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Актуализацията е прекъсната!"

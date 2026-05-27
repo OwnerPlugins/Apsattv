@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Ang Listahan ng Mga Paborito ng APSATTV ay tinanggal"
 
 msgid "Back"
-msgstr ""
+msgstr "Bumalik"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Congrats! Mayroon ka nang pinakabagong bersyon..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Gusto mo bang mag-install ng update ( %s ) ngayon?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Error sa Pag-download"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Error sa pagsuri sa bersyon: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgid "Export"
-msgstr ""
+msgstr "I-export"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "I-filter ang kategoryang ito..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Paki-install ang SubSupport Plugin"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Alisin ang Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Alisin ang lahat ng APSATTV Favorite Bouquet?"
 
 msgid "Search"
-msgstr ""
+msgstr "Maghanap"
 
 msgid "Update"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Na-abort ang Update!"

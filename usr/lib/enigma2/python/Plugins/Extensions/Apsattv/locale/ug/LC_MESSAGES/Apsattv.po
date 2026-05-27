@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV ياقتۇرىدىغان تىزىملىك ​​ئۆچۈرۈلدى"
 
 msgid "Back"
-msgstr ""
+msgstr "قايتىش"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "مۇبارەك بولسۇن! سىزدە ئەڭ يېڭى نەشرى بار ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ھازىر يېڭىلاش (% s) نى قاچىلىماقچىمۇ؟"
 
 msgid "Download Error"
-msgstr ""
+msgstr "چۈشۈرۈش خاتالىقى"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "تەكشۈرۈش خاتالىقى:% s"
 
 msgid "Exit"
-msgstr ""
+msgstr "چىقىش"
 
 msgid "Export"
-msgstr ""
+msgstr "ئېكسپورت"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "بۇ تۈرنى سۈزۈڭ ..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "SubSupport قىستۇرمىلىرىنى قاچىلاڭ"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "گۈلنى ئۆچۈرۈڭ"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "بارلىق APSATTV ياقتۇرىدىغان گۈلنى ئۆچۈرۈڭ؟"
 
 msgid "Search"
-msgstr ""
+msgstr "ئىزدەش"
 
 msgid "Update"
-msgstr ""
+msgstr "يېڭىلاش"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "يېڭىلانغان ئەمەلدىن قالدۇرۇلدى!"

@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV таңдаулылар тізімі жойылды"
 
 msgid "Back"
-msgstr ""
+msgstr "Артқа"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Құттықтаймыз! Сізде соңғы нұсқа әлдеқашан бар..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Жаңартуды ( %s ) қазір орнатқыңыз келе ме?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Жүктеп алу қатесі"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Нұсқаны тексеру қатесі: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Шығу"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорттау"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Осы санатты сүзу..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "SubSupport плагиндерін орнатыңыз"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Букет алып тастаңыз"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Барлық APSATTV сүйікті букет жойылсын ба?"
 
 msgid "Search"
-msgstr ""
+msgstr "Іздеу"
 
 msgid "Update"
-msgstr ""
+msgstr "Жаңарту"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Жаңарту тоқтатылды!"

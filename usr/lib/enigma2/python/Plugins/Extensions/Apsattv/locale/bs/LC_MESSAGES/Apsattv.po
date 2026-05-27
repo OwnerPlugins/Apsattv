@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV lista favorita je uklonjena"
 
 msgid "Back"
-msgstr ""
+msgstr "Nazad"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Congrats! Već imate najnoviju verziju..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Želite li sada instalirati ažuriranje ( %s )?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Greška pri preuzimanju"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Greška pri provjeri verzije: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Izađi"
 
 msgid "Export"
-msgstr ""
+msgstr "Izvoz"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtriraj ovu kategoriju..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Molimo instalirajte SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Ukloni buket"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Ukloniti sve APSATTV omiljeni buket?"
 
 msgid "Search"
-msgstr ""
+msgstr "Traži"
 
 msgid "Update"
-msgstr ""
+msgstr "Ažuriraj"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ažuriranje je prekinuto!"

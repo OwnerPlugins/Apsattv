@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV ተወዳጆች ዝርዝር ተወግዷል"
 
 msgid "Back"
-msgstr ""
+msgstr "ተመለስ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "እንኳን ደስ ያለህ! ቀድሞውንም የቅርብ ጊዜ ስሪት አለህ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ማሻሻያ (%s) አሁን መጫን ይፈልጋሉ?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "የማውረድ ስህተት"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "ስሪቱን በመፈተሽ ላይ ስህተት፡%s"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "Export"
-msgstr ""
+msgstr "ወደ ውጪ ላክ"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ይህን ምድብ አጣራ..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "እባክዎን የድጋፍ ፕለጊኖችን ይጫኑ"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Bouquet አስወግድ"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "ሁሉም APSATTV ተወዳጅ ቡኬት ይወገድ?"
 
 msgid "Search"
-msgstr ""
+msgstr "ፈልግ"
 
 msgid "Update"
-msgstr ""
+msgstr "አዘምን"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ዝማኔ ተቋርጧል!"

@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV のお気に入りリストが削除されました"
 
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "おめでとうございます！すでに最新バージョンをお持ちです..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "今すぐアップデート ( %s ) をインストールしますか?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "ダウンロードエラー"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "バージョンチェック中にエラーが発生しました: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Export"
-msgstr ""
+msgstr "輸出"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "このカテゴリをフィルタリング..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "SubSupport プラグインをインストールしてください"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "花束を削除する"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "APSATTV のお気に入りの花束をすべて削除しますか?"
 
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "アップデートが中止されました!"

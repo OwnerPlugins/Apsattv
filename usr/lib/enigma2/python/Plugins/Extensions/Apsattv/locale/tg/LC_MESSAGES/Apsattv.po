@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Рӯйхати дӯстдоштаҳои APSATTV хориҷ карда шуданд"
 
 msgid "Back"
-msgstr ""
+msgstr "Бозгашт"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Табрик! Шумо аллакай версияи охиринро доред..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Оё шумо мехоҳед навсозиро ( %s ) ҳозир насб кунед?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Хатои зеркашӣ"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Хатогӣ дар тафтиши версия: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "Export"
-msgstr ""
+msgstr "Содирот"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Филтр кардани ин категория..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Лутфан плагинҳои SubSupport насб кунед"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Букетро хориҷ кунед"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Ҳама гулдастаи дӯстдоштаи APSATTV хориҷ карда шаванд?"
 
 msgid "Search"
-msgstr ""
+msgstr "Ҷустуҷӯ"
 
 msgid "Update"
-msgstr ""
+msgstr "Навсозӣ"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Навсозӣ қатъ карда шуд!"

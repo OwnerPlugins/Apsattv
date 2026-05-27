@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV favoritlista har tagits bort"
 
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "grattis! Du har redan den senaste versionen..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Vill du installera uppdateringen ( %s ) nu?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Nedladdningsfel"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Fel vid kontroll av version: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrera den här kategorin..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Installera SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Ta bort bukett"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Ta bort alla APSATTV favoritbuketter?"
 
 msgid "Search"
-msgstr ""
+msgstr "Söka"
 
 msgid "Update"
-msgstr ""
+msgstr "Uppdatera"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Uppdatering avbröts!"

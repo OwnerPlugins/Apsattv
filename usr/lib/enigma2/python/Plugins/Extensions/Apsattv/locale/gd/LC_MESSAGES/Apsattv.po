@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Chaidh Liosta Roghainnean APSATTV a thoirt air falbh"
 
 msgid "Back"
-msgstr ""
+msgstr "Air ais"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Mealaibh ur naidheachd! Tha an tionndadh as ùire agad mu thràth ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "A bheil thu airson ùrachadh ( %s ) a stàladh an-dràsta?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Luchdaich sìos mearachd"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Thachair mearachd le sgrùdadh an tionndaidh: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ar-a-mach"
 
 msgid "Export"
-msgstr ""
+msgstr "Às-mhalairt"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Criathraich an roinn seo..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Feuch an stàlaich thu plugan SubSupport"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Thoir air falbh Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Thoir air falbh a h-uile Bouquet as fheàrr le APSATV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Rannsaich"
 
 msgid "Update"
-msgstr ""
+msgstr "Ùraich"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ùrachadh air a sguireadh!"

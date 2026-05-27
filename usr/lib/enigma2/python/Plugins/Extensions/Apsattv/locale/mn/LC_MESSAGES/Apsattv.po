@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV дуртай жагсаалт хасагдсан"
 
 msgid "Back"
-msgstr ""
+msgstr "Буцах"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Баяр хүргэе! Танд хамгийн сүүлийн хувилбар байгаа..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Та одоо шинэчлэлтийг ( %s ) суулгахыг хүсэж байна уу?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Татаж авах алдаа"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Хувилбарыг шалгахад алдаа гарлаа: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Гарах"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Энэ ангиллыг шүүх..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "SubSupport Plugins суулгана уу"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Bouquet арилгах"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Бүх APSATTV-ийн дуртай баглааг устгах уу?"
 
 msgid "Search"
-msgstr ""
+msgstr "Хайх"
 
 msgid "Update"
-msgstr ""
+msgstr "Шинэчлэх"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Шинэчлэлтийг зогсоосон!"

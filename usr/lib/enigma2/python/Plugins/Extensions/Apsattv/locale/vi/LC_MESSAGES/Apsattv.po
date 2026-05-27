@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Danh sách yêu thích APSATTV đã bị xóa"
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Xin chúc mừng! Bạn đã có phiên bản mới nhất..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Bạn có muốn cài đặt bản cập nhật ( %s ) ngay bây giờ không?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Lỗi tải xuống"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Lỗi kiểm tra phiên bản: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "Export"
-msgstr ""
+msgstr "Xuất khẩu"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Lọc danh mục này..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Vui lòng cài đặt Plugin hỗ trợ phụ"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Loại bỏ bó hoa"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Xóa tất cả Bó hoa yêu thích của APSATTV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Cập nhật bị hủy bỏ!"

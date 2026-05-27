@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "تمت إزالة قائمة المفضلة لـ APSATTV"
 
 msgid "Back"
-msgstr ""
+msgstr "خلف"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "هل تريد تثبيت التحديث ( %s ) الآن؟"
 
 msgid "Download Error"
-msgstr ""
+msgstr "خطأ في التنزيل"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "خطأ في التحقق من الإصدار: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "Export"
-msgstr ""
+msgstr "يصدّر"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "تصفية هذه الفئة..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "الرجاء تثبيت المكونات الإضافية للدعم الفرعي"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "إزالة الباقة"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "هل ترغب في إزالة جميع باقة APSATTV المفضلة؟"
 
 msgid "Search"
-msgstr ""
+msgstr "يبحث"
 
 msgid "Update"
-msgstr ""
+msgstr "تحديث"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "تم إحباط التحديث!"

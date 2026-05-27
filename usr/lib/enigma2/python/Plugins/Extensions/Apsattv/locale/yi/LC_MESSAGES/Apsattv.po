@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV פאַוואָריטעס רשימה איז אַוועקגענומען"
 
 msgid "Back"
-msgstr ""
+msgstr "צוריק"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "מאַזל - טאָוו! איר האָט שוין די לעצטע ווערסיע ..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "צי איר ווילן צו ינסטאַלירן דערהייַנטיקן (%s) איצט?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "אראפקאפיע טעות"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "טעות טשעק ווערסיע: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "Export"
-msgstr ""
+msgstr "עקספּאָרט"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "פילטער די קאטעגאריע..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "ביטע ינסטאַלירן סובסופּפּאָרט פּלוגינס"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "אַראָפּנעמען בוקיי"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "אַראָפּנעמען אַלע APSATTV באַליבסטע בוקיי?"
 
 msgid "Search"
-msgstr ""
+msgstr "זוכן"
 
 msgid "Update"
-msgstr ""
+msgstr "דערהייַנטיקן"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "דערהייַנטיקן אַבאָרטיד!"

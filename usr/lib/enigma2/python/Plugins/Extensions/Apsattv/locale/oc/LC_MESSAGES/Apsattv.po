@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "La lista dels favorits d'APSATTV es estada suprimida"
 
 msgid "Back"
-msgstr ""
+msgstr "Arrièr"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Felicitacions! Avètz ja la darrièra version..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Volètz installar la mesa a jorn ( %s ) ara ?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Error de telecargament"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Error de verificacion de la version : %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrar aquesta categoria..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Mercés d'installar los ensambladors de sossupòrt"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Levar lo ramèl"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Quitar totes los rams preferits d'APSATTV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Cercar"
 
 msgid "Update"
-msgstr ""
+msgstr "Metre al jorn"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Mesa a jorn avortada!"

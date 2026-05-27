@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Seznam oblíbených APSATTV byl odstraněn"
 
 msgid "Back"
-msgstr ""
+msgstr "Zadní"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "gratuluji! Už máte nejnovější verzi..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Chcete nyní nainstalovat aktualizaci ( %s )?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Chyba stahování"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Chyba při kontrole verze: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Výstup"
 
 msgid "Export"
-msgstr ""
+msgstr "Vývozní"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrovat tuto kategorii..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Nainstalujte si prosím SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Odebrat kytici"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Odebrat všechny oblíbené kytice APSATTV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Vyhledávání"
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aktualizace zrušena!"

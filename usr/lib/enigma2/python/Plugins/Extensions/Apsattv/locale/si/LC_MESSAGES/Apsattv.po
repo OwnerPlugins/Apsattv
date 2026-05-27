@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV ප්‍රියතම ලැයිස්තුව ඉවත් කර ඇත"
 
 msgid "Back"
-msgstr ""
+msgstr "ආපසු"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "සුභ පැතුම්! ඔබට දැනටමත් නවතම අනුවාදය ඇත..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "ඔබට දැන් යාවත්කාලීන (%s ) ස්ථාපනය කිරීමට අවශ්‍යද?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "බාගත කිරීමේ දෝෂයකි"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "අනුවාදය පරීක්ෂා කිරීමේ දෝෂයකි: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "පිටවීම"
 
 msgid "Export"
-msgstr ""
+msgstr "අපනයනය කරන්න"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "මෙම ප්‍රවර්ගය පෙරහන් කරන්න..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "කරුණාකර SubSupport Plugins ස්ථාපනය කරන්න"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "මල් කළඹ ඉවත් කරන්න"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "සියලුම APSATTV ප්‍රියතම මල් කළඹ ඉවත් කරන්නද?"
 
 msgid "Search"
-msgstr ""
+msgstr "සොයන්න"
 
 msgid "Update"
-msgstr ""
+msgstr "යාවත්කාලීන කරන්න"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "යාවත්කාලීන කිරීම නවත්වන ලදී!"

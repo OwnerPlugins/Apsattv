@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV lemmikute loend on eemaldatud"
 
 msgid "Back"
-msgstr ""
+msgstr "Tagasi"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Õnnitlused! Teil on juba uusim versioon..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Kas soovite värskenduse ( %s ) kohe installida?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Allalaadimisviga"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Viga versiooni kontrollimisel: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "Export"
-msgstr ""
+msgstr "Ekspordi"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtreeri see kategooria..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Installige SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Eemaldage kimp"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Kas eemaldada kogu APSATTV lemmikkimp?"
 
 msgid "Search"
-msgstr ""
+msgstr "Otsi"
 
 msgid "Update"
-msgstr ""
+msgstr "Värskenda"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Värskendus katkestatud!"

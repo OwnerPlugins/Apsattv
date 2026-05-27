@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV Favoriler Listesi kaldırıldı"
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Tebrikler! Zaten en son sürüme sahipsiniz..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Güncellemeyi ( %s ) şimdi yüklemek istiyor musunuz?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "İndirme Hatası"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Sürüm kontrol edilirken hata oluştu: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "Export"
-msgstr ""
+msgstr "İhracat"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Bu kategoriyi filtrele..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Lütfen SubSupport Eklentilerini yükleyin"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Buketi Kaldır"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Tüm APSATTV Favori Buketleri kaldırılsın mı?"
 
 msgid "Search"
-msgstr ""
+msgstr "Aramak"
 
 msgid "Update"
-msgstr ""
+msgstr "Güncelleme"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Güncelleme İptal Edildi!"

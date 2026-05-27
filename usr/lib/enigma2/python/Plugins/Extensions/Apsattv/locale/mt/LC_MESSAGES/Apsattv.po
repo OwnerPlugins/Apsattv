@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Il-Lista tal-Favoriti APSATV tneħħiet"
 
 msgid "Back"
-msgstr ""
+msgstr "Lura"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Prosit! Diġà għandek l-aħħar verżjoni..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Trid tinstalla l-aġġornament ( %s ) issa?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Żball tat-tniżżil"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Żball fil-verifika tal-verżjoni: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "Export"
-msgstr ""
+msgstr "Esportazzjoni"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Iffiltra din il-kategorija..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Jekk jogħġbok installa SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Neħħi Bukkett"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Neħħi l-Bukkett favorit kollu tal-APSATV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Fittex"
 
 msgid "Update"
-msgstr ""
+msgstr "Aġġornament"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aġġornament Abortat!"

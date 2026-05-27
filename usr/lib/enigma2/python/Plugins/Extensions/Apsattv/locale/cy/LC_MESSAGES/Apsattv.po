@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Mae Rhestr Ffefrynnau APSATTV wedi'i dileu"
 
 msgid "Back"
-msgstr ""
+msgstr "Yn ol"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Llongyfarchiadau! Mae gennych y fersiwn diweddaraf yn barod..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Ydych chi am osod diweddariad ( %s ) nawr?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Gwall Lawrlwytho"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Gwall wrth wirio fersiwn: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "Export"
-msgstr ""
+msgstr "Allforio"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Hidlo'r categori hwn..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Gosodwch Ategion SubSupport"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Tynnwch Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Cael gwared ar holl Hoff Tusw APSATV?"
 
 msgid "Search"
-msgstr ""
+msgstr "Chwiliwch"
 
 msgid "Update"
-msgstr ""
+msgstr "Diweddariad"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Diweddariad wedi'i Erthylu!"

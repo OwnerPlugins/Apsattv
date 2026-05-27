@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Orodha ya Vipendwa vya APSATTV imeondolewa"
 
 msgid "Back"
-msgstr ""
+msgstr "Nyuma"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Hongera! Tayari una toleo jipya zaidi..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Je, ungependa kusakinisha sasisho ( %s ) sasa?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Hitilafu ya Upakuaji"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Hitilafu katika kuangalia toleo: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Export"
-msgstr ""
+msgstr "Hamisha"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Chuja aina hii..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Tafadhali sakinisha Programu-jalizi za SubSupport"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Ondoa Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Je, ungependa kuondoa Mauti yote ya APSATTV unayopenda?"
 
 msgid "Search"
-msgstr ""
+msgstr "Tafuta"
 
 msgid "Update"
-msgstr ""
+msgstr "Sasisha"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Usasishaji Umeghairiwa!"

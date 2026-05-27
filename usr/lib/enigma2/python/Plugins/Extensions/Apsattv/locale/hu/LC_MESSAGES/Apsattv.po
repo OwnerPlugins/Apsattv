@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "Az APSATTV kedvencek listája eltávolítva"
 
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Gratulálunk! Már megvan a legújabb verzió..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Szeretné most telepíteni a frissítést ( %s )?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Letöltési hiba"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Hiba a verzió ellenőrzésekor: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Kijárat"
 
 msgid "Export"
 msgstr ""
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Kategória szűrése..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Kérjük, telepítse a SubSupport beépülő modulokat"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Távolítsa el a csokrot"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Eltávolítja az összes APSATTV kedvenc csokrot?"
 
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 msgid "Update"
-msgstr ""
+msgstr "Frissítés"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Frissítés megszakítva!"

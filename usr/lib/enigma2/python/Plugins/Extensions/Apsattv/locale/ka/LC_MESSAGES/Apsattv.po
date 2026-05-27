@@ -17,46 +17,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV ფავორიტების სია ამოღებულია"
 
 msgid "Back"
-msgstr ""
+msgstr "უკან"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "გილოცავ! თქვენ უკვე გაქვთ უახლესი ვერსია..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "გსურთ განახლების ( %s) ინსტალაცია ახლა?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "ჩამოტვირთვის შეცდომა"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "შეცდომა ვერსიის შემოწმებისას: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Export"
-msgstr ""
+msgstr "ექსპორტი"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ამ კატეგორიის გაფილტვრა..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "გთხოვთ დააინსტალიროთ SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "ამოიღეთ ბუკეტი"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "წაიშალოს ყველა APSATTV საყვარელი თაიგული?"
 
 msgid "Search"
-msgstr ""
+msgstr "ძიება"
 
 msgid "Update"
-msgstr ""
+msgstr "განახლება"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "განახლება შეწყდა!"

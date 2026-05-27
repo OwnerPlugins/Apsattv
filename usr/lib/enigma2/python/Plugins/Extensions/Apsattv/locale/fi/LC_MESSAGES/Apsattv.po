@@ -18,46 +18,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "APSATTV Favorites List have been removed"
-msgstr ""
+msgstr "APSATTV:n suosikkilista on poistettu"
 
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Onnittelut! Sinulla on jo uusin versio..."
 
 msgid "Do you want to install update ( %s ) now?"
-msgstr ""
+msgstr "Haluatko asentaa päivityksen ( %s ) nyt?"
 
 msgid "Download Error"
-msgstr ""
+msgstr "Latausvirhe"
 
 msgid "Error checking version: %s"
-msgstr ""
+msgstr "Virhe tarkistettaessa versiota: %s"
 
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 msgid "Export"
-msgstr ""
+msgstr "Viedä"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Suodata tämä luokka..."
 
 msgid "Please install SubSupport Plugins"
-msgstr ""
+msgstr "Asenna SubSupport Plugins"
 
 msgid "Remove Bouquet"
-msgstr ""
+msgstr "Poista Bouquet"
 
 msgid "Remove all APSATTV Favorite Bouquet?"
-msgstr ""
+msgstr "Poistetaanko kaikki APSATTV:n suosikkikimppu?"
 
 msgid "Search"
-msgstr ""
+msgstr "Haku"
 
 msgid "Update"
-msgstr ""
+msgstr "Päivittää"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Päivitys keskeytetty!"
