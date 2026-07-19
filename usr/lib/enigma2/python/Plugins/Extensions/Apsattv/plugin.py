@@ -94,7 +94,7 @@ screen_size = getDesktop(0).size()
 screen_width = screen_size.width()
 
 if screen_width > 1920:
-    skin_path = join(PLUGIN_PATH, "skin/uhd")
+    skin_path = join(PLUGIN_PATH, "skin/wqhd")
 elif screen_width >= 1280:
     skin_path = join(PLUGIN_PATH, "skin/fhd")
 else:
